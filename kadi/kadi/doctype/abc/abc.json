@@ -1,0 +1,109 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-04-01 23:13:11.925203",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "f_section",
+  "data_ffsj",
+  "data_kigr",
+  "a",
+  "column_break_oysf",
+  "d",
+  "column_break_fezk",
+  "e",
+  "ff_section",
+  "f",
+  "tab_2_tab",
+  "autocomplete_hzqo",
+  "autocomplete_pjtl"
+ ],
+ "fields": [
+  {
+   "fieldname": "f_section",
+   "fieldtype": "Section Break",
+   "label": "f"
+  },
+  {
+   "fieldname": "data_ffsj",
+   "fieldtype": "Data",
+   "label": "a"
+  },
+  {
+   "fieldname": "data_kigr",
+   "fieldtype": "Data",
+   "label": "b"
+  },
+  {
+   "fieldname": "a",
+   "fieldtype": "Data",
+   "label": "c"
+  },
+  {
+   "fieldname": "column_break_oysf",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "d",
+   "fieldtype": "Autocomplete",
+   "label": "d"
+  },
+  {
+   "fieldname": "column_break_fezk",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "e",
+   "fieldtype": "Autocomplete",
+   "label": "e"
+  },
+  {
+   "fieldname": "ff_section",
+   "fieldtype": "Section Break",
+   "label": "ff"
+  },
+  {
+   "fieldname": "f",
+   "fieldtype": "Autocomplete",
+   "label": "f"
+  },
+  {
+   "fieldname": "tab_2_tab",
+   "fieldtype": "Tab Break",
+   "label": "Tab 2"
+  },
+  {
+   "fieldname": "autocomplete_hzqo",
+   "fieldtype": "Autocomplete"
+  },
+  {
+   "fieldname": "autocomplete_pjtl",
+   "fieldtype": "Autocomplete"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-04-01 23:26:16.037724",
+ "modified_by": "Administrator",
+ "module": "Kadi",
+ "name": "abc",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
